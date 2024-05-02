@@ -1,5 +1,5 @@
 # xwan0374_9103_tut6
-#Part 1
+###Part 1
 My assignment is inspired by Wassily Kandinsky's work "several circles", which consists mainly of colorful prototypes of different sizes. These circles of different sizes and colors give the viewer a rhythmic and dynamic visual experience and the artist creates a wonderful and vibrant atmosphere. I will bring this randomness of different colors and sizes into my projects.
 ![several circles](https://github.com/xwan0374/xwan0374_9103_tut6/blob/main/several%20circles.webp)
 
