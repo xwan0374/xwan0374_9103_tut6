@@ -1,5 +1,6 @@
 # xwan0374_9103_tut6
-###Part 1
+<h1>Part 1</h1>
+
 My assignment is inspired by Wassily Kandinsky's work "several circles", which consists mainly of colorful prototypes of different sizes. These circles of different sizes and colors give the viewer a rhythmic and dynamic visual experience and the artist creates a wonderful and vibrant atmosphere. I will bring this randomness of different colors and sizes into my projects.
 ![several circles](https://github.com/xwan0374/xwan0374_9103_tut6/blob/main/several%20circles.webp)
 
@@ -8,6 +9,7 @@ My second inspiration was Kazimir Malevich - Aeroplane Flying, 1915, which impre
 
 
 Part 2
+
 In order to implement the imaging technique I chose in part 1, I obtained the Aunt code at [link text](https://happycoding.io/tutorials/p5js/). This code generates circles of random size and color.[link text](https://happycoding.io/tutorials/p5js/random). 
 
 function setup() {
@@ -51,6 +53,7 @@ function setup() {
   fill(255);
   arc(479, 300, 280, 280, PI, TWO_PI);
 }
+
 I'll try to combine the elements of these two inspirations to add some visual effects through these two sets of codes.
 
 
