@@ -8,7 +8,7 @@ My second inspiration was Kazimir Malevich - Aeroplane Flying, 1915, which impre
 ![Kazimir Malevich - Aeroplane Flying, 1915](https://github.com/xwan0374/xwan0374_9103_tut6/blob/main/Kazimir%20Malevich%20-%20Aeroplane%20Flying%2C%201915.jpeg)
 
 
-Part 2
+<h1>Part 2</h1>
 
 In order to implement the imaging technique I chose in part 1, I obtained the Aunt code at [link text](https://happycoding.io/tutorials/p5js/). This code generates circles of random size and color.[link text](https://happycoding.io/tutorials/p5js/random). 
 
