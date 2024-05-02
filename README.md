@@ -1,7 +1,7 @@
 # xwan0374_9103_tut6
 #Part 1
 My assignment is inspired by Wassily Kandinsky's work "several circles", which consists mainly of colorful prototypes of different sizes. These circles of different sizes and colors give the viewer a rhythmic and dynamic visual experience and the artist creates a wonderful and vibrant atmosphere. I will bring this randomness of different colors and sizes into my projects.
-![Kazimir Malevich - Aeroplane Flying, 1915]()
+![Kazimir Malevich - Aeroplane Flying, 1915](Kazimir Malevich - Aeroplane Flying, 1915.jpeg)
 My second inspiration was Kazimir Malevich - Aeroplane Flying, 1915, which impressed me with the combination of minimal geometric shapes. The bright colors and minimal geometric images draw the viewer's attention to the dynamics of the graphic structure of the work. The minimalist geometry and bold color palette of this piece is something I would like to incorporate into my project.
 ![several circles](several circles.webp)
 
