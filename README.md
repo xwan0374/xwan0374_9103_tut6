@@ -12,19 +12,19 @@ My second inspiration was Kazimir Malevich - Aeroplane Flying, 1915, which impre
 
 In order to implement the imaging technique I chose in part 1, I obtained the Aunt code at [link text](https://happycoding.io/tutorials/p5js/). This code generates circles of random size and color.[link text](https://happycoding.io/tutorials/p5js/random). 
 
-function setup() {
-  createCanvas(200, 200);
-  background(32);
+function setup() { 
+    createCanvas(200, 200); 
+    background(32); 
 }
 
-function draw(){
-  var circleX = random(width);
-  var circleY = random(height);
-  var circleSize = random(10, 100);
-  fill(random(255), random(255), random(255));
-  
-  ellipse(circleX, circleY, circleSize)
+function draw() { 
+    var circleX = random(width); 
+    var circleY = random(height); 
+    var circleSize = random(10, 100); 
+    fill(random(255), random(255), random(255));
+    ellipse(circleX, circleY, circleSize);
 }
+
 
 The second code is about setting the position and size of the graphic.
 [link text](https://p5js.org/examples/form-shape-primitives.html). 
